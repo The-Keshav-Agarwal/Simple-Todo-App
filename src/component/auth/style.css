@@ -6,7 +6,7 @@
     font-size: 20px;
     margin: 20px;
     margin-left: calc(39vw - 8rem);
-    width: calc(25rem - 1vw);
+    width: calc(10vw  + 14rem);
 }
 .login,.task{
     text-decoration: none;
