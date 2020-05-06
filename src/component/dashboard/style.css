@@ -8,9 +8,9 @@
     margin: 15px;
     background-color: #fff;
     box-shadow: 20px 20px 10px rgba(141, 93, 93, 0.2);
-    width:calc(1vw + 20rem);
+    width:calc(3vw + 18rem);
     padding-bottom: 35px;
-    margin-left: calc(12vw - 4rem);
+    margin-left: calc(10vw - 2rem);
 }
 .create{
     font-size: 18px;
