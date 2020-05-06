@@ -9,7 +9,7 @@ li{
     list-style-type:none;
     display: inline;
     font-size: 20px;
-    margin: 10px 12px 0px 12px;
+    margin: 12px 12px 0px 12px;
 }
 .circle{
     background-color: black;
@@ -17,10 +17,10 @@ li{
     padding: 5px;
 }
 .logo{
-    font-size: 30px;
+    font-size: 25px;
+    margin-top: 12px;
 }
 .container{
-    padding: 5px 25px 5px 25px;
     display: flex;
     justify-content: space-between;
 }
