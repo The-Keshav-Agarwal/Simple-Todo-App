@@ -1,0 +1,24 @@
+/* .main{
+    display:flex;
+    justify-content: space-around;
+} */
+.card{
+    font-size:20px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #fff;
+    box-shadow: 20px 20px 10px rgba(141, 93, 93, 0.2);
+    width:calc( 21rem);
+    padding-bottom: 35px;
+    margin-left: calc(8vw + 2rem);
+}
+.create{
+    font-size: 18px;
+}
+.date{
+    color: #323232;
+    font-size:17px;
+}
+.titlediscription,.creatediscription{
+    color:black;
+}

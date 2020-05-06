@@ -1,0 +1,30 @@
+#email,#password,#firstname,#lastname,#title,#discription{
+    border: none;
+    outline: none;
+    padding: 0px;
+    border-bottom: 2px solid #323232;
+    font-size: 20px;
+    margin: 20px;
+    margin-left: calc(39vw - 8rem);
+    width: calc(25rem - 1vw);
+}
+.login,.task{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 500px;
+    margin-left: calc(39vw - 8rem);
+    width: calc(4rem + 2vw);
+    border:none;
+    outline: none;
+    font-size:18px;
+    background-color:#3b4d61 ;
+    margin-top:10px;
+    cursor: pointer;
+    color: white;
+}
+
+.heading{
+    margin: 20px;
+    margin-left: calc(39vw - 8rem);
+    margin-bottom: 50px;
+}

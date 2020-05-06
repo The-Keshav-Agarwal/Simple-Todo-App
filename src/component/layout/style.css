@@ -1,0 +1,29 @@
+.nav{
+    background-color: #3b4d61 ;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+li{
+    list-style-type:none;
+    display: inline;
+    font-size: 20px;
+    margin: 10px 12px 0px 12px;
+}
+.circle{
+    background-color: black;
+    border-radius: 100px;
+    padding: 5px;
+}
+.logo{
+    font-size: 30px;
+}
+.container{
+    padding: 5px 25px 5px 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.onlylogo{
+    padding: 5px 25px 5px 25px;
+}
