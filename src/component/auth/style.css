@@ -5,8 +5,8 @@
     border-bottom: 2px solid #323232;
     font-size: 20px;
     margin: 20px;
-    margin-left: calc(39vw - 8rem);
-    width: calc(10vw  + 14rem);
+    margin-left: calc(40vw - 8rem);
+    width: calc(7vw  + 17rem);
 }
 .login,.task{
     text-decoration: none;
